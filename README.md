@@ -10,6 +10,8 @@
 - `\problem` ：作業習題標題。
 - `\Code` ：漂亮的 C/C++ 程式塊。
 
+……等等功能，有興趣可以翻翻 `homework.cls` 裡面所引入的 package 。
+
 ## 使用方式
 
 - `template.tex` 是一個空的檔案，可以複製當模板使用。
